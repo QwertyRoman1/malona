@@ -1,2 +1,0 @@
-# malona
-students project
